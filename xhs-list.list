@@ -1,0 +1,33 @@
+# NAME: XiaoHongShu
+# AUTHOR: roninriddle
+# REPO: https://github.com/roninriddle/xhs-list
+# UPDATED: 2026-06-11
+# DOMAIN-SUFFIX: 22
+# TOTAL: 22
+#
+# Surge Rule Set for XiaoHongShu / RED
+# Usage:
+# RULE-SET,https://raw.githubusercontent.com/roninriddle/xhs-list/main/xhs-list.list,XHS
+
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xiaohongshu.cn
+DOMAIN-SUFFIX,xiaohongshu.net
+DOMAIN-SUFFIX,xiaohongshu.net.cn
+DOMAIN-SUFFIX,xiaohongshu.com.cn
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xhscdn.cn
+DOMAIN-SUFFIX,xhslink.com
+DOMAIN-SUFFIX,xhslink.cn
+DOMAIN-SUFFIX,xhsdns.com
+DOMAIN-SUFFIX,xhsdns.net
+DOMAIN-SUFFIX,xhssys.com
+DOMAIN-SUFFIX,xhssys.cn
+DOMAIN-SUFFIX,xhssys.net
+DOMAIN-SUFFIX,xhsurl.com
+DOMAIN-SUFFIX,xhsurl.cn
+DOMAIN-SUFFIX,xhsos.com
+DOMAIN-SUFFIX,redcdn.cn
+DOMAIN-SUFFIX,redcdn.net
+DOMAIN-SUFFIX,redcdn.com
