@@ -2,8 +2,8 @@
 # AUTHOR: roninriddle
 # REPO: https://github.com/roninriddle/xhs-list
 # UPDATED: 2026-06-11
-# DOMAIN-SUFFIX: 24
-# TOTAL: 24
+# DOMAIN-SUFFIX: 22
+# TOTAL: 22
 #
 # Surge Rule Set for XiaoHongShu / RED
 # Usage:
@@ -31,5 +31,3 @@ DOMAIN-SUFFIX,xhsos.com
 DOMAIN-SUFFIX,redcdn.cn
 DOMAIN-SUFFIX,redcdn.net
 DOMAIN-SUFFIX,redcdn.com
-DOMAIN-SUFFIX,tianwenca.com
-DOMAIN-SUFFIX,xinqiucc.com
